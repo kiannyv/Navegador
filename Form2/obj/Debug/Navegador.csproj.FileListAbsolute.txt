@@ -1,0 +1,12 @@
+C:\Users\ldsan\source\repos\Form2\Form2\bin\Debug\Form2.exe.config
+C:\Users\ldsan\source\repos\Form2\Form2\bin\Debug\Form2.exe
+C:\Users\ldsan\source\repos\Form2\Form2\bin\Debug\Form2.pdb
+C:\Users\ldsan\source\repos\Form2\Form2\obj\Debug\Navegador.csproj.AssemblyReference.cache
+C:\Users\ldsan\source\repos\Form2\Form2\obj\Debug\Navegador.csproj.SuggestedBindingRedirects.cache
+C:\Users\ldsan\source\repos\Form2\Form2\obj\Debug\Form2.Form1.resources
+C:\Users\ldsan\source\repos\Form2\Form2\obj\Debug\Form2.Form2.resources
+C:\Users\ldsan\source\repos\Form2\Form2\obj\Debug\Form2.Properties.Resources.resources
+C:\Users\ldsan\source\repos\Form2\Form2\obj\Debug\Navegador.csproj.GenerateResource.cache
+C:\Users\ldsan\source\repos\Form2\Form2\obj\Debug\Navegador.csproj.CoreCompileInputs.cache
+C:\Users\ldsan\source\repos\Form2\Form2\obj\Debug\Form2.exe
+C:\Users\ldsan\source\repos\Form2\Form2\obj\Debug\Form2.pdb
